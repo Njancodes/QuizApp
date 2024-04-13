@@ -1,0 +1,32 @@
+{
+    "questions":[
+        {
+            "question": "How many holes in a polo ?",
+            "options": [
+                "one","two","three"
+            ],
+            "answer": "four"
+        },
+        {
+            "question": "Which one of the following river flows between Vindhyan and Satpura ranges?",
+            "options": [
+                "Mahanadi","Son","Netravati"
+            ],
+            "answer": "Narmada"
+        },
+        {
+            "question": "Which of the following components are major nutrients in our food?",
+            "options": [
+                "Carbohydrates","Lipids and Proteins","Vitamins and Minerals"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is the complete form of E-Mitra?",
+            "options": [
+                "Employer Mitra","Emergency Mitra","Employee Mitra"
+            ],
+            "answer": "Electronic Mitra"
+        }
+    ]
+}

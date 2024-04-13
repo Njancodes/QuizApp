@@ -1,0 +1,8 @@
+ 1. It asks questions
+ 2. You can add questions
+
+The front end is
+
+Background an image that is related to the question which is blurred
+
+ 
